@@ -1,2 +1,2 @@
 # algodspy
-Some data structures and algorithms py codes
+Some data structure and algorithms py codes
